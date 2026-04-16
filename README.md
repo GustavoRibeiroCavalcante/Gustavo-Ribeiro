@@ -1,9 +1,9 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o Gustavo Ribeiro! 👋
 
 ### 👨‍🏫 Sobre Mim
-- 🎓 Sou aluno do curso de **[Nome do seu Curso]** na instituição **[Nome da Escola/Faculdade]**.
-- 💡 Atualmente estou focado em aprender **[Tecnologia 1]** e **[Tecnologia 2]**.
-- 🎯 Meu objetivo é me tornar um desenvolvedor **[Frontend / Backend / Fullstack]**.
+- 🎓 Sou aluno do curso de **[Desenvolvimento de sistemas na instituição **[Etec jardim Angela]**.
+- 💡 Atualmente estou focado em aprender **[C#]** e **[Mysql]**.
+- 🎯 Meu objetivo é me tornar um desenvolvedor **[ Fullstack]**.
 - 🌱 No momento, estou desenvolvendo projetos práticos para aplicar meus conhecimentos em lógica e estrutura de dados.
 
 ---
@@ -36,5 +36,5 @@ Aqui estão as tecnologias que venho estudando e utilizando em meus projetos:
 ---
 
 ### 📫 Como me encontrar
-- 📧 Email: [seuemail@provedor.com]
+- 📧 Email: guansa123l@gmail.com
 - 💼 LinkedIn: [link-para-seu-linkedin]
